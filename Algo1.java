@@ -16,11 +16,14 @@ public class Algo1 {
             System.out.println("This is a positive number");
             continue;
         }
+        
         int fib_num=2;
         int i =1;
         String output="0,1,";
 
         do{
+
+
 
         output += i ;
         output += "," ;
@@ -30,8 +33,6 @@ public class Algo1 {
          i =k ;
 
          
-
-
         }while(true);
     }while(true);
         
